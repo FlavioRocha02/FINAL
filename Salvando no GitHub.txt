@@ -1,0 +1,16 @@
+No diretório turma19 -> clicar com o botão direito e selecionar a opção "Git Bash Here", após abrir o prompt aberto entre com os comandos abaixo:
+
+Comandos do Git
+1. git init
+2. git add .
+3. git commit -m "material aula"
+
+
+Ir no site do github e crie um novo diretorio, e copie o endereço do novo diretorio
+
+4.git remote add origin https://github.com/FlavioRocha02/turma19b.git
+
+5.git push origin master
+
+Final todos os arquivos estão no github.
+
